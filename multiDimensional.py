@@ -32,3 +32,5 @@ print(array[1][1][2]) # L
 print(array[0,0,0]) # A
 print(array[1,1,2]) # L
 
+word = array[0,0,0] + array[1,1,2] + array[1,1,2]
+print(word) # ALL
